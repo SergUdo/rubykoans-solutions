@@ -1,10 +1,11 @@
 # Rubykoans solutions
 
+
   	It's my solutions Rubykoans.
 
-  	Visit to: http://rubykoans.com/
+  	Visit to: <http://rubykoans.com/>
 
-  	Download application: https://github.com/edgecase/ruby_koans/blob/master/download/rubykoans.zip?raw=true
+  	Download application: <https://github.com/edgecase/ruby_koans/blob/master/download/rubykoans.zip?raw=true>
 
   	Go to folder: `cd koans`
 
